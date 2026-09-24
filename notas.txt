@@ -1,0 +1,24 @@
+FICHA PERSONAL - 2º ASIR (IES FRANCISCO DE QUEVEDO)
+===================================================
+
+1. Nombre y quién soy:
+   Iván
+   Frase: "Estudiante de 2º de ASIR enfocado en administración de sistemas, hardware, redes y ciberseguridad donde solo la física marque el límite."
+
+2. Cosas que he hecho:
+   - Estudiante de 2º de ASIR (Administración de Sistemas Informáticos en Red) en el IES Francisco de Quevedo, profundizando en infraestructura y servicios.
+   - Montaje, configuración y optimización de hardware y servidores buscando el máximo rendimiento, estabilidad térmica y eficiencia.
+   - Administración, securización y despliegue de sistemas y redes para garantizar entornos fiables y sin vulnerabilidades.
+   - Concepción de una futura empresa tecnológica orientada a la perfección técnica, la soberanía digital y el rendimiento extremo de infraestructura.
+
+3. Cosas que me gustan:
+   - Hardware, servidores y arquitectura de computadores: exprimir componentes, cacharrear y entender cada capa física.
+   - Redes y ciberseguridad: diseñar infraestructuras robustas, seguras y a prueba de fallos.
+   - Música: escuchar mis géneros favoritos y descubrir nuevos sonidos mientras optimizo entornos y sistemas.
+
+4. Qué quiero ser / Me interesa:
+   - Fundar una empresa tecnológica que alcance la excelencia y la soberanía tecnológica, creando infraestructuras y sistemas perfectos y seguros donde los únicos límites los dicte la física.
+
+5. Colores y estilo:
+   - Estilo: Minimalista y limpio, aspecto tecnológico y profesional de infraestructura.
+   - Colores principales: Fondo blanco/nieve (#f8fafc), azul marino profundo (#0f172a) para textos y cabecera, y azul petróleo / cian técnico (#0284c7) para acentos y botones.

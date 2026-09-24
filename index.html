@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Iván | 2º ASIR - Web Personal</title>
+  <meta name="description" content="Web personal de Iván, estudiante de 2º de ASIR en el IES Francisco de Quevedo. Pasión por el hardware, administración de sistemas, redes, ciberseguridad y soberanía tecnológica.">
+  <!-- Enlace a la hoja de estilos externa -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ========================================== -->
+  <!-- BARRA DE NAVEGACIÓN Y ACCIONES             -->
+  <!-- ========================================== -->
+  <nav class="barra-nav" id="navegacion">
+    <div class="contenedor nav-contenido">
+      <span class="logo">Iván // 2º ASIR</span>
+      <div class="nav-acciones">
+        <a href="#sobre-mi">Sobre mí</a>
+        <a href="#lo-que-he-hecho">Sistemas</a>
+        <a href="#me-gusta">Intereses</a>
+        <a href="#contacto">Contacto</a>
+        <!-- Botón para alternar modo claro / modo oscuro -->
+        <button id="btn-tema" class="btn-tema" aria-label="Cambiar tema de color" title="Alternar modo oscuro/claro">
+          🌙 Oscuro
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ========================================== -->
+  <!-- CABECERA PRINCIPAL (HEADER)                -->
+  <!-- Presenta el nombre, centro y visión        -->
+  <!-- ========================================== -->
+  <header class="cabecera" id="inicio">
+    <div class="contenedor">
+      <p class="tagline">2º ASIR · IES Francisco de Quevedo</p>
+      <h1 class="titulo-principal">Hola, soy Iván</h1>
+      <p class="frase-destacada">
+        "Apasionado por el hardware, los sistemas, las redes y la seguridad donde solo la física marque el límite."
+      </p>
+    </div>
+  </header>
+
+  <!-- ========================================== -->
+  <!-- CONTENIDO PRINCIPAL (MAIN)                 -->
+  <!-- ========================================== -->
+  <main class="contenedor">
+
+    <!-- SECCIÓN 1: SOBRE MÍ -->
+    <!-- Enfoque en administración de sistemas y hardware -->
+    <section class="seccion" id="sobre-mi">
+      <h2 class="titulo-seccion">Sobre mí</h2>
+      <div class="caja-texto">
+        <p>
+          Soy estudiante de segundo curso de <strong>Administración de Sistemas Informáticos en Red (2º ASIR)</strong> en el <strong>IES Francisco de Quevedo</strong>. Mi mundo no es el desarrollo de software ni pasar horas picando código: lo mío es la <strong>infraestructura real</strong>, las máquinas, las redes y los servidores.
+        </p>
+        <p>
+          Me apasiona el <em>hardware</em>, exprimir los componentes al máximo rendimiento, securizar entornos y lograr que las plataformas funcionen de forma impecable y sin fisuras. Mi objetivo es fundar una empresa tecnológica orientada a la soberanía digital y a sistemas de alta fidelidad donde el único límite lo dicten las leyes de la física.
+        </p>
+      </div>
+    </section>
+
+    <!-- SECCIÓN 2: LO QUE HE HECHO -->
+    <!-- Proyectos, administración de sistemas y experiencia en hardware -->
+    <section class="seccion" id="lo-que-he-hecho">
+      <h2 class="titulo-seccion">Lo que he hecho</h2>
+      <div class="lista-tarjetas">
+        <article class="tarjeta">
+          <span class="tarjeta-icono">🖥️</span>
+          <h3>Especialización en 2º ASIR</h3>
+          <p>Consolidando formación avanzada en administración de sistemas operativos (Linux y Windows Server), virtualización, servicios de red y alta disponibilidad en el IES Francisco de Quevedo.</p>
+        </article>
+
+        <article class="tarjeta">
+          <span class="tarjeta-icono">⚙️</span>
+          <h3>Montaje y optimización de hardware</h3>
+          <p>Montaje minucioso de equipos, configuración de BIOS/UEFI, curvas térmicas y ajustes de hardware para exprimir cada ciclo con total estabilidad.</p>
+        </article>
+
+        <article class="tarjeta">
+          <span class="tarjeta-icono">🛡️</span>
+          <h3>Securización y redes</h3>
+          <p>Implementación de políticas de seguridad, configuración de cortafuegos y diseño de arquitecturas donde la integridad y la confidencialidad no sean negociables.</p>
+        </article>
+
+        <article class="tarjeta">
+          <span class="tarjeta-icono">🚀</span>
+          <h3>Visión de soberanía tecnológica</h3>
+          <p>Diseño y conceptualización de una empresa tecnológica orientada al hardware de rendimiento extremo y a infraestructuras soberanas e independientes.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- SECCIÓN 3: ME GUSTA -->
+    <!-- Áreas de interés y aficiones organizadas en cuadrícula de 2 columnas -->
+    <section class="seccion" id="me-gusta">
+      <h2 class="titulo-seccion">Me gusta</h2>
+      <div class="rejilla-gustos">
+        <article class="caja-gusto">
+          <h3>⚡ Hardware & Cacharreo</h3>
+          <p>Arquitectura de microprocesadores, memorias, almacenamiento NVMe y placas. Me apasiona tocar la máquina de verdad y entender cómo fluyen los datos a nivel físico.</p>
+        </article>
+
+        <article class="caja-gusto">
+          <h3>🌐 Servidores & Redes</h3>
+          <p>Desplegar servicios, configurar switches, VLANs y routers. Disfruto viendo una infraestructura comunicada con baja latencia y disponibilidad continua.</p>
+        </article>
+
+        <article class="caja-gusto">
+          <h3>🔒 Precisión & Sistemas Seguros</h3>
+          <p>Buscar que todo quede pulcro y perfecto. Cero vulnerabilidades conocidas, entornos blindados y configuraciones limpias sin parches improvisados.</p>
+        </article>
+
+        <article class="caja-gusto">
+          <h3>🎵 Música & Concentración</h3>
+          <p>Descubrir nueva música y disfrutar de diferentes géneros sonoros mientras monitorizo servidores, analizo configuraciones o monto componentes.</p>
+        </article>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ========================================== -->
+  <!-- PIE DE PÁGINA (FOOTER)                     -->
+  <!-- Vías de contacto y créditos                -->
+  <!-- ========================================== -->
+  <footer class="pie-pagina" id="contacto">
+    <div class="contenedor pie-contenido">
+      <div class="pie-info">
+        <h3>Contacto</h3>
+        <p>¿Interesado en hablar de sistemas, redes, hardware o futuros proyectos?</p>
+        <p>Email: <a href="mailto:ivan.asir@quevedo.es">ivan.asir@quevedo.es</a></p>
+      </div>
+      <div class="pie-creditos">
+        <p>&copy; 2026 Iván · 2º ASIR (IES Francisco de Quevedo)</p>
+        <p class="nota-tecnica">Web personal centrada en administración de sistemas e infraestructura.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Enlace al archivo de interactividad JavaScript -->
+  <script src="script.js"></script>
+</body>
+</html>
