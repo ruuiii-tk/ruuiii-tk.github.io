@@ -4,7 +4,7 @@
 
 ### *Infraestructura, Sistemas en Red, Hardware y Ciberseguridad*
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Sitio%20Web%20Publicado-brightgreen?style=for-the-badge&logo=github)](https://TU_USUARIO.github.io/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Sitio%20Web%20Publicado-brightgreen?style=for-the-badge&logo=github)](https://ruuiii-tk.github.io/)
 [![IES Francisco de Quevedo](https://img.shields.io/badge/IES-Francisco%20de%20Quevedo-blue?style=for-the-badge)](https://www.iesfranciscodequevedo.es/)
 
 </div>
@@ -19,7 +19,7 @@ El sitio presenta un perfil técnico enfocado en la administración de sistemas,
 
 ### 🌐 Enlace a la Web Publicada
 
-🔗 **Sitio en vivo:** [https://TU_USUARIO.github.io/](https://TU_USUARIO.github.io/)
+🔗 **Sitio en vivo:** [https://ruuiii-tk.github.io/](https://ruuiii-tk.github.io/)
 
 ---
 
@@ -62,14 +62,14 @@ El sitio presenta un perfil técnico enfocado en la administración de sistemas,
 
 El proyecto está configurado para desplegarse automáticamente mediante **GitHub Pages**:
 
-1. Repositorio: `TU_USUARIO.github.io` (o nombre asignado)
+1. Repositorio: `ruuiii-tk.github.io`
 2. Rama de publicación: `main`
 3. Carpeta raíz: `/ (root)`
-4. URL pública: `https://TU_USUARIO.github.io/`
+4. URL pública: `https://ruuiii-tk.github.io/`
 
 ---
 
 ## 👤 Autor
 
 - **Iván** - Estudiante de 2º de ASIR en el IES Francisco de Quevedo
-- **GitHub:** [@TU_USUARIO](https://github.com/TU_USUARIO)
+- **GitHub:** [@ruuiii-tk](https://github.com/ruuiii-tk)
